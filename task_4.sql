@@ -1,1 +1,6 @@
-SHOW CREATE TABLE `books`;
+USE alx_book_store;
+SHOW TABLES;
+
+
+
+
